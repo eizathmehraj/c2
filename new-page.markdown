@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-
+<html>
   
 
   
@@ -20,6 +20,7 @@ layout: default
     
 
     {% include footer.html %}
+</html
 
   
 
