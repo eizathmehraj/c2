@@ -10,8 +10,8 @@ layout: default
   
 
   
+    {% include head.html %}
     
-    {% include header.html %}
 
     
       
