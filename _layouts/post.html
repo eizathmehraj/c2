@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+
+ 
+
+
+
+<div class="blog-outer-wrapper" id="blog-container">
+    {% include header.html %}
+    <div class="blog-inner-wrapper">
+        <div>
+            <div class="post-header">
+                     <div id="post-banner-img">
+                     <img src="{{site.baseurl}}/img/{{page.banner-img}}">
+                     </div>
+                <h2>{{page.title}}</h2>
+
+                <span class="author">By {{page.Author}}</span><span class="tilt">/</span><span class="category">In {{page.category}}</span> 
+                {{page.content}}
+                 
+                   <div class="comment-section">
+                   <h4>ABOUT THE AUTHOR</h4>
+               <div>
+                 <img src="{{site.baseurl}}/img/{{page.img}}"></img>
+               </div>
+               <div>
+               <h5>{{page.Author}}</h5> {{page.About}}
+         </div>
+        </div>
+
+                <!-- <div class="post-button">
+                    <a href="{{post.url}}" class="Blog-button">VIEW ALL</a>
+                </div> -->
+
+                
+            </div>
+        </div>
+    </div>
+</div>

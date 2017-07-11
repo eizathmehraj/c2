@@ -1,0 +1,39 @@
+--- 
+layout: default 
+
+ 
+---
+<div class="blog-outer-wrapper" id="blog-container">
+    {% include header.html %}
+    <div class="blog-inner-wrapper">
+        <h3>LATEST POSTS</h3>
+        <div id="post-section">
+            {% for post in paginator.posts %}
+            <div>
+            <img src="{{site.baseurl}}/img/{{post.banner-img}}">
+                <h2><a href="{{site.baseurl}}{{post.url}}" class="PH-links">{{post.title}}</a></h2>
+                <span class="author">By {{post.Author}}</span><span class="tilt">/</span><span class="category">In {{post.category}}</span> 
+                {{post.excerpt}}
+                <a href="{{site.baseurl}}{{post.url}}" class="Blog-button">READ ON</a>
+
+ 
+            </div>
+            {% endfor %}
+        </div>
+               <div class="pagination">
+                    {% if paginator.previous_page %}
+                    <a href="{{site.baseurl}}{{ paginator.previous_page_path }}" class="previous">Previous</a> {% else %}
+                    <span class="previous">Previous</span> 
+                    {% endif %}
+                    <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span> 
+                    {% if paginator.next_page %}
+                    <a href="{{site.baseurl}}{{ paginator.next_page_path }}" class="next">Next</a> {% else %}
+                    <span class="next ">Next</span> {% endif %}
+              </div>
+
+        <!-- <div class="next-button">
+            <a href="blog.html" class="Blog-button">LOAD MORE</a>
+
+        </div> -->
+    </div>
+</div>
