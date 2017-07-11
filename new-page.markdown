@@ -15,7 +15,7 @@ layout: default
 
     
       
-        {{ content }}
+        
       
     
 
