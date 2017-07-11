@@ -1,12 +1,11 @@
 ---
 title: new post
 date: 2017-07-11 05:57:00 Z
-image: "/uploads/akiva-center.png"
+image: "/uploads/madison_barnett.jpg"
 Author: eizath
 excerpt_separator: 
-banner-image: 
-Field name: 
-About: 
+banner-image: "/uploads/post-img-5.png"
+About: hello
 layout: post
 ---
 
