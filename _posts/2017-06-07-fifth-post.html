@@ -1,16 +1,17 @@
 ---
-
-title: 'FINDING A NEEDLE IN A HAYSTACK ISN’T HARD'
-date: 2017-06-07
-category:  Business
+title: FINDING A NEEDLE IN A HAYSTACK ISN’T HARD
+date: 2017-06-07 00:00:00 Z
+permalink: "/FINDING-A-NEEDLE-IN-A-HAYSTACK-ISN’T-HARD/"
+categories:
+- Business
 Author: Madison barnett
 layout: post
-permalink: /FINDING-A-NEEDLE-IN-A-HAYSTACK-ISN’T-HARD/
-excerpt_separator: '<!--more-->'
-banner-img: 'post-img-4.png'
-img: 'madison_barnett.jpg'
-About : I get my inspiration from the fictional world. I'm a social geek. Completely exploit 24/365 catalysts for change whereas high standards in action items. Conveniently whiteboard multifunctional benefits without enabled leadership.
-
+excerpt_separator: "<!--more-->"
+banner-img: post-img-4.png
+img: madison_barnett.jpg
+About: I get my inspiration from the fictional world. I'm a social geek. Completely
+  exploit 24/365 catalysts for change whereas high standards in action items. Conveniently
+  whiteboard multifunctional benefits without enabled leadership.
 ---
 
 <div id="fifthPost" class="post-content">
