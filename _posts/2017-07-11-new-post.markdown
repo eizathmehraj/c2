@@ -1,7 +1,7 @@
 ---
 title: new post
 date: 2017-07-11 05:57:00 Z
-image: "/uploads/madison_barnett-4ab2f6.jpg"
+image: "/img/madison_barnett.jpg"
 Author: eizath
 excerpt_separator: 
 banner-image: "/img/post-img-5.png"
