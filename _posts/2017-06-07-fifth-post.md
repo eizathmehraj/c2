@@ -4,7 +4,7 @@ date: 2017-06-07 00:00:00 Z
 permalink: "/FINDING-A-NEEDLE-IN-A-HAYSTACK-ISN’T-HARD/"
 categories:
 - Business
-Author: Madison barnett
+
 layout: post
 excerpt_separator: "<!--more-->"
 banner-img: post-img-4.png

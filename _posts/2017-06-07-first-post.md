@@ -4,8 +4,8 @@ date: 2017-06-07 00:00:00 Z
 permalink: "/KNIGHTS-I-BID-YOU-WELCOME-TO-YOUR-NEW-HOME/"
 categories:
 - Technology
-Author: Madison Barnett
-layout: post
+
+
 excerpt_separator: "<!--more-->"
 img: madison_barnett.jpg
 banner-img: post-img-6.png
