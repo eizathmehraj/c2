@@ -4,14 +4,14 @@ date: 2017-06-07 00:00:00 Z
 permalink: "/KNIGHTS-I-BID-YOU-WELCOME-TO-YOUR-NEW-HOME/"
 categories:
 - Technology
-
-
+Author: Madison Barnett
 excerpt_separator: "<!--more-->"
-image: "/uploads/madison_barnett.jpg"
-banner-image: "/uploads/post-img-6.png"
+image: "/uploads/madison_barnett-4ab2f6.jpg"
+banner-image: "/uploads/post-img-1.png"
 About: I get my inspiration from the fictional world. I'm a social geek. Completely
   exploit 24/365 catalysts for change whereas high standards in action items. Conveniently
   whiteboard multifunctional benefits without enabled leadership.
+layout: post
 ---
 
 <div id="FirstPost" class="post-content">
