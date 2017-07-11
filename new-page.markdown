@@ -8,7 +8,7 @@ layout: default
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+  
 
   <body>
 
