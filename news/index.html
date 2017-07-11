@@ -9,7 +9,7 @@ layout: default
         <div id="post-section">
             {% for post in paginator.posts %}
             <div>
-            <img src="{{post.banner-image}}">
+            <img src="{{site.baseurl}}/img/{{post.banner-image}}">
                 <h2><a href="{{site.baseurl}}{{post.url}}" class="PH-links">{{post.title}}</a></h2>
                 <span class="author">By {{post.Author}}</span><span class="tilt">/</span><span class="category">In {{post.category}}</span> 
                 {{post.excerpt}}
