@@ -7,8 +7,8 @@ categories:
 
 
 excerpt_separator: "<!--more-->"
-img: madison_barnett.jpg
-banner-img: post-img-6.png
+image: "/uploads/madison_barnett.jpg"
+banner-img: "/uploads/post-img-6.png"
 About: I get my inspiration from the fictional world. I'm a social geek. Completely
   exploit 24/365 catalysts for change whereas high standards in action items. Conveniently
   whiteboard multifunctional benefits without enabled leadership.

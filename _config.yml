@@ -8,7 +8,7 @@ timezone: UTC
       layout: "post"
       title :
       Author: 
-      image :
+      image : /img/
       banner-image:
       excerpt_separator:
       About:
