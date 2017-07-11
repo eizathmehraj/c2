@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  img:
+    title: img
+    output: true
 description: 
 baseurl: ''
 url: ''
