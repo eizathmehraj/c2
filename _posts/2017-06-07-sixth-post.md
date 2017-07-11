@@ -1,17 +1,17 @@
 ---
-
-title: 'THIS MAN IS A KNIGHT IN SHINING ARMOR'
-date: 2017-06-07
-category:  Technology
+title: THIS MAN IS A KNIGHT IN SHINING ARMOR
+date: 2017-06-07 00:00:00 Z
+permalink: "/THIS-MAN-IS-A-KNIGHT-IN-SHINING-ARMOR/"
+categories:
+- Technology
 Author: Madison barnett
 layout: post
-permalink: /THIS-MAN-IS-A-KNIGHT-IN-SHINING-ARMOR/
-excerpt_separator: '<!--more-->'
-img: 'madison_barnett.jpg'
-banner-img: 'post-img-5.png'
-About : I get my inspiration from the fictional world. I'm a social geek. Completely exploit 24/365 catalysts for change whereas high standards in action items. Conveniently whiteboard multifunctional benefits without enabled leadership.
-
-
+excerpt_separator: "<!--more-->"
+img: madison_barnett.jpg
+banner-img: post-img-5.png
+About: I get my inspiration from the fictional world. I'm a social geek. Completely
+  exploit 24/365 catalysts for change whereas high standards in action items. Conveniently
+  whiteboard multifunctional benefits without enabled leadership.
 ---
 
 <div id="fifthPost" class="post-content">

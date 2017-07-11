@@ -1,16 +1,17 @@
 ---
-
-title: 'THERE’S ONLY ONE MAN I’VE EVER CALLED A COWARD'
-date: 2017-06-07
-category: Culture
+title: THERE’S ONLY ONE MAN I’VE EVER CALLED A COWARD
+date: 2017-06-07 00:00:00 Z
+permalink: "/THERE’S-ONLY-ONE-MAN-I’VE-EVER-CALLED-A-COWARD/"
+categories:
+- Culture
 Author: Madison barnett
-permalink: /THERE’S-ONLY-ONE-MAN-I’VE-EVER-CALLED-A-COWARD/
 layout: post
-excerpt_separator: '<!--more-->'
-img: 'madison_barnett.jpg'
-banner-img: 'post-img-3.png'
-About : I get my inspiration from the fictional world. I'm a social geek. Completely exploit 24/365 catalysts for change whereas high standards in action items. Conveniently whiteboard multifunctional benefits without enabled leadership.
-
+excerpt_separator: "<!--more-->"
+img: madison_barnett.jpg
+banner-img: post-img-3.png
+About: I get my inspiration from the fictional world. I'm a social geek. Completely
+  exploit 24/365 catalysts for change whereas high standards in action items. Conveniently
+  whiteboard multifunctional benefits without enabled leadership.
 ---
 
 <div id="fourthPost" class="post-content">
