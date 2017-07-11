@@ -5,7 +5,6 @@ image: "/uploads/akiva-center.png"
 Author: eizath
 excerpt_separator: 
 banner-image: 
-Field name: 
 About: 
 layout: post
 ---
