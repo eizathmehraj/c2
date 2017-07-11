@@ -5,6 +5,6 @@ includes: header
 layout: default
 ---
 
-{{% header %}}
+{{header}}
 sdasdksajdkljaskdjaskhdashasdhkashdkashdkahsdkhakdhsakhdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 {{% include footer.html %}}
