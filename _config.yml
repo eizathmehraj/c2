@@ -2,15 +2,17 @@
 title: Cognopia
 timezone: UTC
 collections:
-  default:
+  
     title: Default
     output: false
-    name:
+    
       title: Posts
       output: true
   posts:
     title: Posts
     output: true
+default:
+    name:
   uploads:
     title: Uploads
     output: true
