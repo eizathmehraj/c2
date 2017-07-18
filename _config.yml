@@ -3,6 +3,8 @@ title: Cognopia
 timezone: UTC
 collections:
   posts:
+  default:
+   name:
     title: Posts
     output: true
   uploads:
