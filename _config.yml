@@ -11,14 +11,17 @@ collections:
   posts:
     title: Posts
     output: true
-default:
-    name:
+
   uploads:
     title: Uploads
     output: true
   includes:
     title: includes
     output: true
+default:
+  -scope:
+   type:posts
+    name:
 description: 
 baseurl: ''
 url: ''
